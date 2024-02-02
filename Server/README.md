@@ -1,1 +1,1 @@
-# server
+# chit-chat-server
